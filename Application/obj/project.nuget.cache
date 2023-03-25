@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIVT+qEzG9g5lW6llc6jt839jDwE1B2mZRpATpH7bgzOcn3PWAhtvVPFfpuRS7Xmjig+ClZJ26enSVYbCRbbwg==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\Net\\InterviewQuestion\\WebAPI\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangliangwei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

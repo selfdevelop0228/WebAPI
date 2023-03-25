@@ -1,0 +1,17 @@
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Application.dll
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Domain.dll
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Application.pdb
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\bin\Debug\net6.0\Domain.pdb
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+F:\Programming\Net\InterviewQuestion\WebAPI\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

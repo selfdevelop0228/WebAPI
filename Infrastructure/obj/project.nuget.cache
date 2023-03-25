@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wuF82PHySOP3rmg5JdOkw/Gl7FYHKj57m0GniaBKmSiFIaUFYOEQJZ1t3VdtHrFwoDDgnUULtjAWEfK/XntDw==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\Net\\InterviewQuestion\\WebAPI\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangliangwei\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\wangliangwei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\wangliangwei\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\wangliangwei\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
